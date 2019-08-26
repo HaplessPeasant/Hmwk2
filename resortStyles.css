@@ -1,0 +1,40 @@
+* {
+	font-family: "Comic Sans MS", sans-serif;
+	background-color: seashell;
+	color: darkblue;
+}
+
+h1 {
+	text-align: center;
+	padding: 10px;
+	border: 5px solid brown;
+	background-color: lightblue;
+}
+
+img {
+	border: 2px solid red;
+}
+
+li {
+	color: darkgreen;
+}
+
+strong {
+	color: red;
+}
+
+#address {
+	font-style: italic;
+}
+
+button {
+	color: white;
+	background-color: black;
+	border: 3px solid red;
+	font-weight: bold; 
+}
+
+#wrapper {
+	margin-left: 2em;
+	margin-right: 2em;
+}
